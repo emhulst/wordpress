@@ -1,0 +1,6 @@
+<?php
+  $this1=5;
+  if($this1 == 5){
+  echo "this is my file";
+  }
+?>
